@@ -2,7 +2,7 @@
 
 api desenvolvida em java com spring com a função de sacola./n
 
-Funcionalidades disponiveis 
+Funcionalidades disponiveis: 
 
 -Incluir item na sacola
 
